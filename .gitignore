@@ -1,0 +1,29 @@
+# 忽略模型和缓存文件
+*.pth
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.mp3
+*.wav
+*.mp4
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+env/
+venv/
+
+# 临时文件
+logs/
+outputs/
+runs/
+cache/

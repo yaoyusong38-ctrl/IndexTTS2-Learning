@@ -1,0 +1,7 @@
+{
+    "model_name": "IndexTTS2",
+    "use_fp16": true,
+    "sample_rate": 22050,
+    "device": "cuda",
+    "description": "This is a placeholder config file for IndexTTS2 learning project."
+}
